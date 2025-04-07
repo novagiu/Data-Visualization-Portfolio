@@ -24,6 +24,6 @@ It includes static plots, interactive visualizations, and network graphs, aimed 
 3. **Run Jupyter Notebook**: Provides instructions on running the project in Jupyter Notebook.
 4. **(Optional) Run in Google Colab**: Mentions the option to run the project in Google Colab for convenience.
 
-**##Author**
+## Author
 Iuliia Ivanova  
 Feel free to reach out via [https://www.linkedin.com/in/iuliia-ivanova-novagiu/]
