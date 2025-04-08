@@ -26,4 +26,4 @@ It includes static plots, interactive visualizations, and network graphs, aimed 
 
 ## Author
 Iuliia Ivanova  
-Feel free to reach out via [https://www.linkedin.com/in/iuliia-ivanova-novagiu/]
+Feel free to reach out via [https://www.linkedin.com/in/novagiu/]
